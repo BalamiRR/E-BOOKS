@@ -35,4 +35,4 @@ The session, CRUD operations, Admin panel (Adding, deleting, editing, adding sub
 
 
 
-This project was made and belongs to the FURKAN KARA.
+This project was made and belongs to the FURKAN KARA and FUAT KARA"github.com/BalamiRR".
