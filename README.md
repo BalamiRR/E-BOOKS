@@ -1,30 +1,27 @@
 # E-BOOKS
 
 # Employees-Information-Tool
-Adding people on database using the tool + CRUD
+
+The project topic is about Book Store for the user and was done with using Java Servlet, JSP, MySQL WorkBench.  
+The session, CRUD operations, Admin panel (Adding, deleting, editing, adding sub-categories to the database were done)
 
       |
-      |
-      |
       |                       
-    \   /
-     \ /
-      |
+     \ / 
+      V
       
-## You can log into the system, if you already were added on database.
+#### The first image illustrates page enter which has the type of books. On the top, the user can learn everything about the website, can check all books which exist, find everything about the writer, can contact with the admin of web page. And the most important thing is that the user can register and login to the system by creating an account. All users have privacy profile in which they can see the saved or favourites books.
+
 
 ![alt text](./JSP.png)
 
+      |
+      |                       
+     \ / 
+      V
 
-      |
-      |
-      |
-      |
-    \   /
-     \ /
-      |
+### In the second image, User can find everything about the rate of book, reading rate, writer, the published date, price and payment rate.
 
-## You can find each person by typing on top. You can add, delete, read and update (CRUD) each person on this image.
  
 ![alt text](./JSP-1.png)
 
@@ -36,6 +33,7 @@ Adding people on database using the tool + CRUD
      \ /
       |
 
-## In this picture, the session is done. The registration of the people and the information of the people were made.
+
+In the third image, there is an instance of signed up the user in below. The registration of the people and the information of the people were made.
 
 ![alt text](./JSP-2.png)
