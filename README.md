@@ -20,20 +20,21 @@ The session, CRUD operations, Admin panel (Adding, deleting, editing, adding sub
      \ / 
       V
 
-### In the second image, User can find everything about the rate of book, reading rate, writer, the published date, price and payment rate.
+#### In the second image, User can find everything about the rate of book, reading rate, writer, the published date, price of books and payment rate. User can also get the money back if the book was not bought on purpose.
 
  
 ![alt text](./JSP-1.png)
 
       |
-      |
-      |
-      |
-    \   /
-     \ /
-      |
+      |                       
+     \ / 
+      V
 
 
-In the third image, there is an instance of signed up the user in below. The registration of the people and the information of the people were made.
+#### In the third image, there is an instance of signed up the user in below. The registration of the people and the information of the people were made.
 
 ![alt text](./JSP-2.png)
+
+
+
+This project was made and belongs to the FURKAN KARA.
