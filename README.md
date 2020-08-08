@@ -3,7 +3,7 @@
 ## Online Book Buying Site
 
 The project topic is about Book Store for the user and was done with using Java Servlet, JSP, MySQL WorkBench.  
-The session, CRUD operations, Admin panel (Adding, deleting, editing, adding sub-categories to the database were done)
+The session, CRUD operations, Admin panel (Adding, deleting, editing, adding sub-categories to the database were done) 
 
       |
       |                       
