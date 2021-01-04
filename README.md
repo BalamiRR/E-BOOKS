@@ -7,7 +7,7 @@ The session, CRUD operations, Admin panel (Adding, deleting, editing, adding sub
 
       |
       |                       
-     \ / 
+     \ /  
       V
       
 #### The first image illustrates page enter which has the type of books. On the top, the user can learn everything about the website, can check all books which exist, find everything about the writer, can contact with the admin of web page. And the most important thing is that the user can register and login to the system by creating an account. All users have privacy profile in which they can see the saved or favourites books.
